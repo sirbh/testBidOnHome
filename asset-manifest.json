@@ -3,13 +3,13 @@
     "main.css": "/testBidOnHome/static/css/main.8bf661ea.chunk.css",
     "main.js": "/testBidOnHome/static/js/main.20978311.chunk.js",
     "main.js.map": "/testBidOnHome/static/js/main.20978311.chunk.js.map",
-    "runtime-main.js": "/testBidOnHome/static/js/runtime-main.ca97b2f5.js",
-    "runtime-main.js.map": "/testBidOnHome/static/js/runtime-main.ca97b2f5.js.map",
+    "runtime-main.js": "/testBidOnHome/static/js/runtime-main.ec69dc61.js",
+    "runtime-main.js.map": "/testBidOnHome/static/js/runtime-main.ec69dc61.js.map",
     "static/js/2.70c9e13b.chunk.js": "/testBidOnHome/static/js/2.70c9e13b.chunk.js",
     "static/js/2.70c9e13b.chunk.js.map": "/testBidOnHome/static/js/2.70c9e13b.chunk.js.map",
     "static/css/3.0fac38b0.chunk.css": "/testBidOnHome/static/css/3.0fac38b0.chunk.css",
-    "static/js/3.abd4306e.chunk.js": "/testBidOnHome/static/js/3.abd4306e.chunk.js",
-    "static/js/3.abd4306e.chunk.js.map": "/testBidOnHome/static/js/3.abd4306e.chunk.js.map",
+    "static/js/3.8fc42e7e.chunk.js": "/testBidOnHome/static/js/3.8fc42e7e.chunk.js",
+    "static/js/3.8fc42e7e.chunk.js.map": "/testBidOnHome/static/js/3.8fc42e7e.chunk.js.map",
     "static/js/4.befa7667.chunk.js": "/testBidOnHome/static/js/4.befa7667.chunk.js",
     "static/js/4.befa7667.chunk.js.map": "/testBidOnHome/static/js/4.befa7667.chunk.js.map",
     "index.html": "/testBidOnHome/index.html",
@@ -18,7 +18,7 @@
     "static/js/2.70c9e13b.chunk.js.LICENSE.txt": "/testBidOnHome/static/js/2.70c9e13b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca97b2f5.js",
+    "static/js/runtime-main.ec69dc61.js",
     "static/js/2.70c9e13b.chunk.js",
     "static/css/main.8bf661ea.chunk.css",
     "static/js/main.20978311.chunk.js"
